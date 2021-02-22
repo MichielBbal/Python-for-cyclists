@@ -17,7 +17,5 @@ Show your ride on a map - contains some issues
 ### Cycling data 4. Meewind and Tegenwind
 Experimental Notebook to calculate bearing and 'tegenwind' en 'meewind'. Work in Progress.
 
-### Cycling data 5. Helper script.
-
-
-Use the 'plot fit files on maps' notebook to see your fitfile data plotted on a map.
+### Cycling data 5. Helper script for winddata from OpenWeatherAPI 
+Short script to use the OpenWeather API to load winddata. Unfortunately this can only be done during your ride, not afterwards as OpenWeather does not provide historical data. :-(
